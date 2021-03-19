@@ -11,7 +11,7 @@ In my analysis, I find a vast difference in ride and fare total volume in each o
 
 In the second part of my analysis, I investigate trends from January to April in each of the three city types. That chart is shown below.
 
-![pyber_fare_summary](https://user-images.githubusercontent.com/76958825/111844049-a35c9800-88d8-11eb-8de8-199b0bf9f33c.png)
+img width="603" alt="pyber_fare_summary" src="https://user-images.githubusercontent.com/76958825/111844049-a35c9800-88d8-11eb-8de8-199b0bf9f33c.png">
 
 
 As we see in the chart, business in all types of cities tended to trend together. Each saw a healthy increase in business coming into March, then a decline, and a correction towards the end of April. This may be attributed to the weather changing and increased community activity that people needed rides to get to. Additionally, this chart is illustrative of the relative size of each business unit. Even at suburban cities' highest peak, these fares never even reached the lowest value of urban fares. Weekly suburban fares peaked at late February at approximately $1400. Urban fares peaked at $2500 the same week. Rural fares also increased that week, but saw their peak at just over $500 in April week 1. I also note that Urban and Suburban cities had their worst performing months in January week 1. Clearly, in terms of demand for rides, there is some relationship between suburban and urban cities that requires further investigation.
